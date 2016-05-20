@@ -1,0 +1,11 @@
+{
+    "name": "galonso/bondi",
+    "description": "Command Bus",
+    "authors": [
+        {
+            "name": "Gabriel Alonso",
+            "email": "gbr.alonso@gmail.com"
+        }
+    ],
+    "require": {}
+}
